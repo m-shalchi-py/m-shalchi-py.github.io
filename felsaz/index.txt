@@ -1,0 +1,222 @@
+<html dir="rtl"><head><style class="darkreader darkreader--text" media="screen"></style><style class="darkreader darkreader--invert" media="screen"></style><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
+  background-color: var(--darkreader-inline-bgcolor) !important;
+}
+[data-darkreader-inline-bgimage] {
+  background-image: var(--darkreader-inline-bgimage) !important;
+}
+[data-darkreader-inline-border] {
+  border-color: var(--darkreader-inline-border) !important;
+}
+[data-darkreader-inline-border-bottom] {
+  border-bottom-color: var(--darkreader-inline-border-bottom) !important;
+}
+[data-darkreader-inline-border-left] {
+  border-left-color: var(--darkreader-inline-border-left) !important;
+}
+[data-darkreader-inline-border-right] {
+  border-right-color: var(--darkreader-inline-border-right) !important;
+}
+[data-darkreader-inline-border-top] {
+  border-top-color: var(--darkreader-inline-border-top) !important;
+}
+[data-darkreader-inline-boxshadow] {
+  box-shadow: var(--darkreader-inline-boxshadow) !important;
+}
+[data-darkreader-inline-color] {
+  color: var(--darkreader-inline-color) !important;
+}
+[data-darkreader-inline-fill] {
+  fill: var(--darkreader-inline-fill) !important;
+}
+[data-darkreader-inline-stroke] {
+  stroke: var(--darkreader-inline-stroke) !important;
+}
+[data-darkreader-inline-outline] {
+  outline-color: var(--darkreader-inline-outline) !important;
+}
+[data-darkreader-inline-stopcolor] {
+  stop-color: var(--darkreader-inline-stopcolor) !important;
+}</style><style class="darkreader darkreader--variables" media="screen">:root {
+   --darkreader-neutral-background: #212222;
+   --darkreader-neutral-text: #eae3d9;
+   --darkreader-selection-background: #165aaa;
+   --darkreader-selection-text: #fbf5ec;
+}</style><style class="darkreader darkreader--root-vars" media="screen"></style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>فعل ساز</title>
+    <link rel="stylesheet" href="style.css">
+<style>@font-face {
+        font-family: 'monica-ext-font_YIBBBFG';
+        src: url('chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/fonts/Hind-Light.otf');
+        font-weight: 300;
+        font-display: swap;
+      }
+@font-face {
+        font-family: 'monica-ext-font_YIBBBFG';
+        src: url('chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/fonts/Hind-Regular.otf');
+        font-weight: 400;
+        font-display: swap;
+      }
+@font-face {
+        font-family: 'monica-ext-font_YIBBBFG';
+        src: url('chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/fonts/Hind-Medium.otf');
+        font-weight: 500;
+        font-display: swap;
+      }
+@font-face {
+        font-family: 'monica-ext-font_YIBBBFG';
+        src: url('chrome-extension://ofpnmcalabcbjgholdjcjblkibolbppb/static/fonts/Hind-SemiBold.otf');
+        font-weight: 600;
+        font-display: swap;
+      }</style><style class="darkreader darkreader--override" media="screen"></style></head>
+
+<body monica-version="4.7.2" monica-id="ofpnmcalabcbjgholdjcjblkibolbppb">
+
+    <main>
+        <h1>نرم‌افزار ساخت فعل</h1>
+        <section id="int"><table><tbody><tr>
+            <td id="intb"><input type="text" id="in" placeholder="مصدر را بنویسید" data-listener-added_78a523fd="true"></td>
+            <td id="matd"><p id="ma">بن ماضی: <b class="blue">خرید</b></p></td>
+            <td id="motd"><p id="mo">بن مضارع: <b class="blue">خر</b></p></td>
+        </tr></tbody></table></section>
+        <p></p>
+        <section><table>
+            <tbody><tr>
+                <th>شخص و شمار | زمان</th>
+                <th>ماضی ابعد</th>
+                <th>ماضی بعید</th>
+                <th>ماضی التزامی</th>
+                <th>ماضی مستمر</th>
+                <th>ماضی استمراری</th>
+                <th>ماضی ساده</th>
+                <th>ماضی نقلی</th>
+                <th>مضارع اخباری</th>
+                <th>مضارع استمراری</th>
+                <th>مضارع التزامی</th>
+                <th>آینده</th>
+            </tr>
+            <tr>
+                <th>اوّل شخص مفرد</th>
+                <td id="n11">خریده بوده‌ام</td>
+                <td id="n12">خریده بودم</td>
+                <td id="n13">خریده باشم</td>
+                <td id="n14">داشتم‌می‌خریدم</td>
+                <td id="n15">می‌خریدم</td>
+                <td id="n16">خریدم</td>
+                <td id="n110">خریده‌ام</td>
+                <td id="n17">می‌خرم</td>
+                <td id="n18">دارم می‌خرم</td>
+                <td id="n19">بخرم</td>
+                <td id="n10">خواهم خرید</td>
+            </tr>
+            <tr>
+                <th>دوم شخص مفرد</th>
+                <td id="n21">خریده بوده‌ای</td>
+                <td id="n22">خریده بودی</td>
+                <td id="n23">خریده باشی</td>
+                <td id="n24">داشتی‌می‌خریدی</td>
+                <td id="n25">می‌خریدی</td>
+                <td id="n26">خریدی</td>
+                <td id="n210">خریده‌ای</td>
+                <td id="n27">می‌خری</td>
+                <td id="n28">داری می‌خری</td>
+                <td id="n29">بخری</td>
+                <td id="n20">خواهی خرید</td>
+            </tr>
+            <tr>
+                <th>سوم شخص مفرد</th>
+                <td id="n31">خریده بوده‌است</td>
+                <td id="n32">خریده بود</td>
+                <td id="n33">خریده باشد</td>
+                <td id="n34">داشت‌می‌خرید</td>
+                <td id="n35">می‌خرید</td>
+                <td id="n36">خرید</td>
+                <td id="n310">خریده‌است</td>
+                <td id="n37">می‌خرد</td>
+                <td id="n38">دارد می‌خرد</td>
+                <td id="n39">بخرد</td>
+                <td id="n30">خواهد خرید</td>
+            </tr>
+            <tr>
+                <th>اوّل شخص جمع</th>
+                <td id="n41">خریده بوده‌ایم</td>
+                <td id="n42">خریده بودیم</td>
+                <td id="n43">خریده باشیم</td>
+                <td id="n44">داشتیم‌می‌خریدیم</td>
+                <td id="n45">می‌خریدیم</td>
+                <td id="n46">خریدیم</td>
+                <td id="n410">خریده‌ایم</td>
+                <td id="n47">می‌خریم</td>
+                <td id="n48">داریم می‌خریم</td>
+                <td id="n49">بخریم</td>
+                <td id="n40">خواهیم خرید</td>
+            </tr>
+            <tr>
+                <th>دوم شخص جمع</th>
+                <td id="n51">خریده بوده‌اید</td>
+                <td id="n52">خریده بودید</td>
+                <td id="n53">خریده باشید</td>
+                <td id="n54">داشتید‌می‌خریدید</td>
+                <td id="n55">می‌خریدید</td>
+                <td id="n56">خریدید</td>
+                <td id="n510">خریده‌اید</td>
+                <td id="n57">می‌خرید</td>
+                <td id="n58">دارید می‌خرید</td>
+                <td id="n59">بخرید</td>
+                <td id="n50">خواهید خرید</td>
+            </tr>
+            <tr>
+                <th>سوم شخص جمع</th>
+                <td id="n61">خریده بوده‌اند</td>
+                <td id="n62">خریده بودند</td>
+                <td id="n63">خریده باشند</td>
+                <td id="n64">داشتند‌می‌خریدند</td>
+                <td id="n65">می‌خریدند</td>
+                <td id="n66">خریدند</td>
+                <td id="n610">خریده‌اند</td>
+                <td id="n67">می‌خرند</td>
+                <td id="n68">دارند می‌خرند</td>
+                <td id="n69">بخرند</td>
+                <td id="n60">خواهند خرید</td>
+            </tr>
+        </tbody></table></section>
+        <!-- <p><small id="fn"></small></p>
+        <p><fieldset>
+            <legend>زمان:</legend>
+            <input type="radio" id="za1" name="za" /><label for="za1">ماضی بعید</label>
+            <br><input type="radio" id="za2" name="za" /><label for="za2">ماضی التزامی</label>
+            <br><input type="radio" id="za3" name="za" /><label for="za3">ماضی مستمر</label>
+            <br><input type="radio" id="za4" name="za" /><label for="za4">ماضی استمراری</label>
+            <br><input type="radio" id="za5" name="za" /><label for="za5">ماضی ساده</label>
+            <br><input type="radio" id="za6" name="za" /><label for="za6">ماضی نقلی</label>
+            <br><input type="radio" id="za7" name="za" /><label for="za7">مضارع اخباری</label>
+            <br><input type="radio" id="za8" name="za" /><label for="za8">مضارع مستمر</label>
+            <br><input type="radio" id="za9" name="za" /><label for="za9">مضارع التزامی</label>
+            <br><input type="radio" id="za0" name="za" /><label for="za0">آینده</label>
+        </fieldset></p>
+        <p><fieldset>
+            <legend>شخص و شمار:</legend>
+            <input type="radio" id="sh1" name="sh" /><label for="sh1">اوّل شخص مفرد</label>
+            <br><input type="radio" id="sh2" name="sh" /><label for="sh2">دوم شخص مفرد</label>
+            <br><input type="radio" id="sh3" name="sh" /><label for="sh3">سوم شخص مفرد</label>
+            <br><input type="radio" id="sh4" name="sh" /><label for="sh4">اوّل شخص جمع</label>
+            <br><input type="radio" id="sh5" name="sh" /><label for="sh5">دوم شخص جمع</label>
+            <br><input type="radio" id="sh6" name="sh" /><label for="sh6">سوم شخص جمع</label>
+        </fieldset></p>
+        <p><small id="txt1">فعل:</small></p> -->
+        <p><small id="fe"></small></p>
+        <!-- <p><input type="password" id="pass-id" placeholder="Password" /></p> -->
+        <!-- <p><small id="txt2">بن مضارع:</small></p>
+        <p><small id="mo"></small></p> -->
+        <p><button id="btn" style="
+    border-radius: 31px;
+">محاسبه</button></p>
+        <!-- <p id="about"><small id="txt3">ساخته شده توسّط علی انصاری</small></p> --><img src="logo.svg">
+    </main>
+
+    <script src="script.js"></script>
+
+
+
+<div id="monica-content-root" class="monica-widget" data-darkreader-mode="dynamic" data-darkreader-scheme="dark"><meta name="darkreader" content="d5fa3e60b22a45c0adb74f10556ea824"></div></body></html>
